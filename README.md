@@ -1,3 +1,5 @@
+> Initial project setup and planning complete.
+
 # E-commerce Sales Analytics (SQL + Power BI)
 
 ## Goal
